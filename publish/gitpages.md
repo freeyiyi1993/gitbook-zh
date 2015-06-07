@@ -1,7 +1,7 @@
 发布到github pages
 ====
 
-将生编写好的格式为.md的文件通过Gitbook处理，然后再发布到Github Gages上去。我个人比较喜欢将源码，即`.md`文件与Github Pages静态文件存放在一个仓库中。`.md`文件为`master`分支，而hmtl文件为`gh-pages`分支。具体流程是这样的：
+将生编写好的格式为.md的文件通过Gitbook处理，然后再发布到Github Gages上去。我个人比较喜欢将源码，即`.md`文件与Github Pages静态文件存放在一个仓库中。`.md`文件为`master`分支，而html文件为`gh-pages`分支。具体流程是这样的：
 
 ## 创建仓库与分支
 
